@@ -1,0 +1,29 @@
+Description:
+
+* Engine: Unity
+
+* Platform: Mobile
+
+* Game Mode: Multiplayer
+
+* Goals:
+
+- The game is playable (no bug)
+- The game is interactive enough for players to not feel bored
+- UI is user-friendly
+
+* Development Stages:
+
+	1. Stage 1: Inception: Gameplay Overview and distribution of tasks:
+
+
+	2. Stage 2: Development
+
+
+	3. Stage 3: Compilation
+
+
+	4. Stage 4: Quality Assurance
+
+
+	5. Stage 5: LIVE 
